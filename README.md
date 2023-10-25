@@ -69,7 +69,7 @@ I chose the answer that says it will print equal because I forgot that when comp
 
 ### Takeaways
 
-* Always ask for help when you are stuck, whether that be a peer or teacher.
-* Searching up code you forgot or dont understand and putting it to use helps me remember faster and better.
-* Take better notes and more notes if you want to bring your quiz and test grades up.
-* Look over every part of conditionals when you are trying to find the value of it or its ability to replace other code.
+* Always ask for help when you are stuck, whether that be a peer or teacher. For example, I asked my neighbor who sits next to me in class about the question shown in question 1 and he walked me through it step by step because he got it right. 
+* Trying code you dont understand in a sandbox lets you understand what each batch of code gives you and why one is right and the other isnt. After the quiz when I got home I did this for a good amount of the questions that I didnt understand and this let me physically see why one is right and one is wrong instead of just seeing the red and green marks.
+* Take better notes and more notes if you want to bring your quiz and test grades up. This comes down to me reminding myself to write things down when I have a "woah" moment or I need to remember some code or syntax and what they do such as "!", "||", "&".
+* Look over every part of conditionals when you are trying to find the value of it or its ability to replace other code because one different or/and statement or "!" can change the whole codes purpose and ability to replace another conditional.
